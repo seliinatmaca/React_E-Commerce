@@ -12,7 +12,7 @@ This project encompasses a React application that provides an e-commerce experie
 
 <h2> Demo </h2>
 
-You can view a live demo of this project [here]().
+You can view a live demo of this project [here](https://seliinatmaca.github.io/React_E-Commerce/).
 
 <h2> Screenshot </h2>
 
